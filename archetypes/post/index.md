@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+weight: "10000"
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
